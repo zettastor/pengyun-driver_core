@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+target
+*.log
+*.log.*
+config_info
+DriverContainer
+bin/
+test-output/*
+manifest.mf
+*.iml
+.idea
+.flattened-pom.xml
